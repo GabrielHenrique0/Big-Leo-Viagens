@@ -1,0 +1,25 @@
+button{
+    border-radius: 10px;
+    background-image: linear-gradient(to right, rgb(0, 12, 124), rgb(77, 79, 255), rgb(0, 12, 124));
+    color: white;
+}
+
+input{
+    border-radius: 2px;
+    width: auto;
+}
+
+#horarios {
+    margin: 0;
+    color: red;
+}
+
+#horarios1 {
+    margin: 0;
+    color: green;
+}
+
+#aviao{
+    width: 50px;
+    margin-left: 20px;
+}

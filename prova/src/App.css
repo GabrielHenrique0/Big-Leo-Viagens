@@ -1,0 +1,62 @@
+.App .Cartoes {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  align-self: center;
+}
+
+.Cartoes {
+  justify-content: space-around;
+  margin-top: 50px;
+  justify-content: center;
+}
+
+body {
+  background-image: linear-gradient(to top, #4D62F7, #5177E0, #4D92F7, #47A4F0);
+  color: rgb(255, 255, 255);
+  display: flex;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-content: center;
+}
+
+.animacao{   
+  margin: 0 0 0 85px;  
+  animation-name: deslizar;
+  animation-iteration-count: infinite;
+  text-decoration: none;
+  position: absolute;
+  animation-duration: 5s;
+  color: blue;
+}
+
+@keyframes deslizar{
+  from{opacity: 100; }
+  to{opacity: 0;}
+}
+
+.animacao1{
+  margin: auto;
+  animation-name: deslizar1; 
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  text-decoration: none;
+  transition-duration: 1s;
+  color: blue;
+}
+
+@keyframes deslizar1{
+  from{opacity: 0; }
+  100%{transition-duration: 5s; opacity: 100;}
+}
+
+
+
+button {
+  margin-right: 10px;
+  align-self: center;
+}
