@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "Big Leo Viagens",
-    "deploy": "gh-pages -d Big Leo Viagens"
+    "deploy": "gh-pages -d Big-Leo-Viagens"
   },
   "eslintConfig": {
     "extends": [
