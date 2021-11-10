@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Big-Leo-Viagens/static/css/main.607cab61.chunk.css",
+    "main.js": "/Big-Leo-Viagens/static/js/main.18ba713f.chunk.js",
+    "main.js.map": "/Big-Leo-Viagens/static/js/main.18ba713f.chunk.js.map",
+    "runtime-main.js": "/Big-Leo-Viagens/static/js/runtime-main.cd1a987c.js",
+    "runtime-main.js.map": "/Big-Leo-Viagens/static/js/runtime-main.cd1a987c.js.map",
+    "static/js/2.f678b458.chunk.js": "/Big-Leo-Viagens/static/js/2.f678b458.chunk.js",
+    "static/js/2.f678b458.chunk.js.map": "/Big-Leo-Viagens/static/js/2.f678b458.chunk.js.map",
+    "index.html": "/Big-Leo-Viagens/index.html",
+    "static/css/main.607cab61.chunk.css.map": "/Big-Leo-Viagens/static/css/main.607cab61.chunk.css.map",
+    "static/js/2.f678b458.chunk.js.LICENSE.txt": "/Big-Leo-Viagens/static/js/2.f678b458.chunk.js.LICENSE.txt",
+    "static/media/R.48f35d95.gif": "/Big-Leo-Viagens/static/media/R.48f35d95.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd1a987c.js",
+    "static/js/2.f678b458.chunk.js",
+    "static/css/main.607cab61.chunk.css",
+    "static/js/main.18ba713f.chunk.js"
+  ]
+}
